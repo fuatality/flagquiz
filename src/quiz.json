@@ -1,0 +1,247 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "full_name": "RobertS Schwartz",
+          "email": "rob23@gmail.com",
+          "password": "123456"
+        },
+        {
+          "id": 2,
+          "full_name": "Lucy Boyton",
+          "email": "lucyb56@gmail.com",
+          "password": "123456"
+        },
+        {
+          "id": 3,
+          "full_name": "Anna Smith",
+          "email": "annasmith23@gmail.com",
+          "password": "123456"
+        },
+        {
+          "id": 4,
+          "full_name": "Robert Brown",
+          "email": "bobbrown432@yahoo.com",
+          "password": "123456"
+        },
+        {
+          "id": 5,
+          "full_name": "Roger Bacon",
+          "email": "rogerbacon12@yahoo.com",
+          "password": "123456"
+        },
+        {
+          "id": 6,
+          "full_name": "Fred Blair",
+          "email": "freddyb34@gmail.com",
+          "password": "123456"
+        },
+        {
+          "full_name": "Ahmet Hasan",
+          "email": "ahmet_hasan@gmail.com",
+          "password": "123456",
+          "id": 7
+        }
+      ],
+    "americas": [
+       {"id":1,
+        "img": "https://tr.wikipedia.org/wiki/Kanada_bayrağı#/media/Dosya:Flag_of_Canada.svg", 
+        "answerOptions": [
+            {"answer_id":1, "answerText": "Canada", "isCorrect": true, "isSelected": false },
+            {"answer_id":1, "answerText": "Azerbaijan", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "São Tomé and Príncipe", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "Vatican City", "isCorrect": false, "isSelected": false }
+
+        ] 
+    },
+    {
+        "id":2,
+        "img": "https://tr.wikipedia.org/wiki/Amerika_Birleşik_Devletleri_bayrağı#/media/Dosya:Flag_of_the_United_States.svg", 
+        "answerOptions": [
+            {"answer_id":2, "answerText": "South Sudan", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "U.S.A", "isCorrect": true, "isSelected": false },
+            {"answer_id":2, "answerText": "Costa Rica", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "Kosovo", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },  
+    {
+        "id":3,
+        "img": "https://tr.wikipedia.org/wiki/Meksika_bayrağı#/media/Dosya:Flag_of_Mexico.svg", 
+        "answerOptions": [
+            {"answer_id":3, "answerText": "Nepal", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Saint Kitts and Nevis", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Solomon Islands", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Mexico", "isCorrect": true, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":4,
+        "img": "https://tr.wikipedia.org/wiki/Brezilya_bayrağı#/media/Dosya:Flag_of_Brazil.svg", 
+        "answerOptions": [
+            {"answer_id":4, "answerText": "Costa Rica", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Luxembourg", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Brazil", "isCorrect": true, "isSelected": false },
+            {"answer_id":4, "answerText": "Uzbekistan", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":5,
+        "img": "https://tr.wikipedia.org/wiki/Arjantin_bayrağı#/media/Dosya:Flag_of_Argentina.svg", 
+        "answerOptions": [
+            {"answer_id":5, "answerText": "Belize", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "South Sudan", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "Argentina", "isCorrect": true, "isSelected": false },
+            {"answer_id":5, "answerText": "Laos", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":6,
+        "img": "https://tr.wikipedia.org/wiki/Kolombiya_bayrağı#/media/Dosya:Flag_of_Colombia.svg", 
+        "answerOptions": [
+            {"answer_id":6, "answerText": "Eritrea", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "Colombia", "isCorrect": true, "isSelected": false },
+            {"answer_id":6, "answerText": "Kiribati", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "Bhutan", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    }
+    ],
+    "africa": [
+       {"id":1,
+        "img": "https://tr.wikipedia.org/wiki/Cezayir_bayrağı#/media/Dosya:Flag_of_Algeria.svg", 
+        "answerOptions": [
+            {"answer_id":1, "answerText": "Antigua and Barbuda", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "Liberia", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "Libya", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "Algeria", "isCorrect": true, "isSelected": false }
+
+        ] 
+    },
+    {
+        "id":2,
+        "img": "https://tr.wikipedia.org/wiki/Nijerya_bayrağı#/media/Dosya:Flag_of_Nigeria.svg", 
+        "answerOptions": [
+            {"answer_id":2, "answerText": "Pakistan", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "Nigeria", "isCorrect": true, "isSelected": false },
+            {"answer_id":2, "answerText": "Seychelles", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "Palau", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },  
+    {
+        "id":3,
+        "img": "https://tr.wikipedia.org/wiki/Kongo_Demokratik_Cumhuriyeti_bayrağı#/media/Dosya:Flag_of_the_Democratic_Republic_of_the_Congo.svg", 
+        "answerOptions": [
+            {"answer_id":3, "answerText": "Saint Kitts and Nevis", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Albania", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Democratic Republic of the Congo", "isCorrect": true, "isSelected": false },
+            {"answer_id":3, "answerText": "Micronesia", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":4,
+        "img": "https://tr.wikipedia.org/wiki/Etiyopya_bayrağı#/media/Dosya:Flag_of_Ethiopia.svg", 
+        "answerOptions": [
+            {"answer_id":4, "answerText": "Japan", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Iceland", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Ethiopia", "isCorrect": true, "isSelected": false },
+            {"answer_id":4, "answerText": "San Marino", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":5,
+        "img": "https://tr.wikipedia.org/wiki/Mısır_bayrağı#/media/Dosya:Flag_of_Egypt.svg", 
+        "answerOptions": [
+            {"answer_id":5, "answerText": "Ghana", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "Egypt", "isCorrect": true, "isSelected": false },
+            {"answer_id":5, "answerText": "Mauritania", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "Netherlands", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":6,
+        "img": "https://tr.wikipedia.org/wiki/Güney_Afrika_Cumhuriyeti_bayrağı#/media/Dosya:Flag_of_South_Africa.svg", 
+        "answerOptions": [
+            {"answer_id":6, "answerText": "Egypt", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "South Africa", "isCorrect": true, "isSelected": false },
+            {"answer_id":6, "answerText": "San Marino", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "Kazakhstan", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    }
+    ],
+    "asia": [
+       {"id":1,
+        "img": "https://tr.wikipedia.org/wiki/Çin_bayrağı#/media/Dosya:Flag_of_the_People's_Republic_of_China.svg", 
+        "answerOptions": [
+            {"answer_id":1, "answerText": "Rwanda", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "Iraq", "isCorrect": false, "isSelected": false },
+            {"answer_id":1, "answerText": "People's Republic of China", "isCorrect": true, "isSelected": false },
+            {"answer_id":1, "answerText": "Venezuela", "isCorrect": false, "isSelected": false }
+
+        ] 
+    },
+    {
+        "id":2,
+        "img": "https://tr.wikipedia.org/wiki/Dosya:Flag_of_India.svg", 
+        "answerOptions": [
+            {"answer_id":2, "answerText": "Papua New Guinea", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "India", "isCorrect": true, "isSelected": false },
+            {"answer_id":2, "answerText": "Kosovo", "isCorrect": false, "isSelected": false },
+            {"answer_id":2, "answerText": "Oman", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },  
+    {
+        "id":3,
+        "img": "https://tr.wikipedia.org/wiki/Endonezya_bayrağı#/media/Dosya:Flag_of_Indonesia.svg", 
+        "answerOptions": [
+            {"answer_id":3, "answerText": "Mauritania", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Indonesia", "isCorrect": true, "isSelected": false },
+            {"answer_id":3, "answerText": "Bangladesh", "isCorrect": false, "isSelected": false },
+            {"answer_id":3, "answerText": "Panama", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":4,
+        "img": "https://tr.wikipedia.org/wiki/Pakistan_bayrağı#/media/Dosya:Flag_of_Pakistan.svg", 
+        "answerOptions": [
+            {"answer_id":4, "answerText": "Lesotho", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Kuwait", "isCorrect": false, "isSelected": false },
+            {"answer_id":4, "answerText": "Pakistan", "isCorrect": true, "isSelected": false },
+            {"answer_id":4, "answerText": "Saint Lucia", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":5,
+        "img": "https://tr.wikipedia.org/wiki/Rusya_bayrağı#/media/Dosya:Flag_of_Russia.svg", 
+        "answerOptions": [
+            {"answer_id":5, "answerText": "Russia", "isCorrect": true, "isSelected": false },
+            {"answer_id":5, "answerText": "Saint Lucia", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "Bahrain", "isCorrect": false, "isSelected": false },
+            {"answer_id":5, "answerText": "Mozambique", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    },
+    {
+        "id":6,
+        "img": "https://tr.wikipedia.org/wiki/Güney_Afrika_Cumhuriyeti_bayrağı#/media/Dosya:Flag_of_South_Africa.svg", 
+        "answerOptions": [
+            {"answer_id":6, "answerText": "Egypt", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "South Africa", "isCorrect": true, "isSelected": false },
+            {"answer_id":6, "answerText": "San Marino", "isCorrect": false, "isSelected": false },
+            {"answer_id":6, "answerText": "Kazakhstan", "isCorrect": false, "isSelected": false }
+            
+        ] 
+    }
+    ]
+}
